@@ -6,6 +6,7 @@ authors = ["Luis Donizeti Pereira <luissnux@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+dynaconf = "^3.1.7"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
